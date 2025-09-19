@@ -1,0 +1,50 @@
+name: broderick.walsh
+description: implementation
+version: 0.0.1
+author: ijvpqarr.6gottnwm@msoalogj.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: broderickwalsh
+  parentArtefactID: team1758324727665
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:32:39'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:32:40'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:32:40.47468Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '1215146972'
+  createdAt: '2025-09-19T23:32:40.47468Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
